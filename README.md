@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto de Tech News
 
-Esse projeto foi desenvolvido como projeto bônus no módulo de Ciência da Computação, no curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h), o objetivo desse projeto foi colocar em pratica meus conhecimentos em raspagem de dados, escrever meus próprios módulos e importá-los em outros códigos.
+Esse projeto foi desenvolvido como projeto avaliativo no módulo de Ciência da Computação, no curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h), o objetivo desse projeto foi colocar em pratica meus conhecimentos em raspagem de dados, escrever meus próprios módulos e importá-los em outros códigos.
 
 ---
 
